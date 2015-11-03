@@ -1,0 +1,33 @@
+
+h1{
+	text-align: center;
+}
+
+.form-control {
+	display: inline-block;
+	text-align: center;
+
+
+}
+
+#sample * {
+  display: none;
+}
+
+input{
+	width: 400px; 
+	text-align: center; 
+	display: inline-block;
+	border-spacing: 30px;
+	margin: 20px;
+
+}
+
+table{
+	display: center;
+	margin-right: 30px;
+	width:30%;
+	;
+
+
+}
